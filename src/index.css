@@ -1,0 +1,54 @@
+nav{
+  display: flex;
+  background-color: teal;
+  justify-content: space-between;
+}
+nav .logo h1{
+  color: yellow;
+}
+nav ul {
+  display: flex;
+  list-style: none;
+}
+nav ul li{
+  margin: 10px;
+  color: white;
+}
+header{
+  height: 60vh;
+  background-color: grey;
+  display: flex;
+  align-items: center;
+}
+header .hero {
+  color: white;
+  font-size: 25px;
+}
+  
+  
+.Card section{
+  height: 600px;
+  justify-content: center;
+  border: 5px solid yellowgreen;
+  
+}
+
+.description{
+  border: solid blue 3px;
+}
+.Card{
+  display: grid;
+  grid: template rows 100%;
+  justify-content: center;
+  background-color: khaki;
+  
+}
+form{
+  display: flex;
+  justify-content: center;
+  margin: 5px;
+}
+.contact{
+  display: flex;
+  justify-content: center;
+}
