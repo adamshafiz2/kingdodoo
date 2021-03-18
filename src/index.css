@@ -52,3 +52,7 @@ form{
   display: flex;
   justify-content: center;
 }
+.logo{
+  display: flex;
+  flex-direction: row-reverse;
+}

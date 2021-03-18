@@ -10,9 +10,9 @@ function Hero() {
     return (
         <header>
             <div className="hero">
-                <h2>React Application</h2>
-                <h4>It is a JavaScript library for creating rich UserInterfaces </h4>
-                <ButtonContainer styles={styles} title="Book Now"/>
+                <h2>KING DODOO FITNESS</h2>
+                <h4>I PROVIDE AN ENERGETIC BODY TRANSFORMATION </h4>
+                {/* <ButtonContainer styles={styles} title="Book Now"/> */}
             </div>
         </header>
     )

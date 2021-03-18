@@ -5,6 +5,7 @@ function ServicesComponents() {
         <section >
             <div className="cards">
                 <img src="../images/w1.png" alt=""  style={{height :"500px" , width : "500px"}} />
+                
             </div>
              
         <div className="description">
