@@ -56,3 +56,15 @@ form{
   display: flex;
   flex-direction: row-reverse;
 }
+.clients button{
+  height: 1cm;
+  width: 3cm;
+  border-radius: 1.5cm;
+  background-color: chartreuse;
+
+}
+.clients{
+  display: flex;
+  justify-content: center;
+  background-color: teal;
+}
